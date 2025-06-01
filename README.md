@@ -1,7 +1,7 @@
 <H3>Name : Pravin kumar G</H3>
 <H3>REGISTER NO: 212222230109</H3>
 <H3>EX NO.2</H3>
-<H3>DATE :23.03.2025</H3>
+<H3>DATE :</H3>
 <H1 ALIGN =CENTER> Implementation of Perceptron for Binary Classification</H1>
 
 # AIM:
